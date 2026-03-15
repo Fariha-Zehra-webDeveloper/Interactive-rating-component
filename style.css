@@ -190,7 +190,7 @@ button:hover{
 .attribution {
     font-size: 11px; 
     text-align: center; 
-    color: var(--clr-Grey-500);
+    color: var(--clr-Muted-Grey);
 }
 .attribution a { 
     color: var(--clr-Orange-500); 
